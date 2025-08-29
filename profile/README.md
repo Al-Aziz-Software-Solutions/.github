@@ -34,6 +34,6 @@ Our payroll experts ensure accurate processing, tax compliance, and compensation
 
 Explore our projects and see how **Al Aziz Software Solutions** can transform your business with our professional and innovative solutions.
 
-Connect with us on [Email](contact@alazizsoftwares.com) | Visit our [Website](https://www.alazizsoftwares.com/)
+Connect with us on [Email](alazizsoftwaresolutions@gmail.com) | Visit our [Website](https://www.alazizsoftwares.com/)
 
 ---
