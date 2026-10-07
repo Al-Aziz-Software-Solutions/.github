@@ -1,39 +1,56 @@
-# Welcome to Al Aziz Software Solutions 🚀
+<div align="center">
 
-Enhance Your Business with Our Professional Solutions!
+<img src="https://alazizsoftware.com/icon-512.png" width="88" alt="AlAziz Software Solutions logo" />
 
-At **Al Aziz Software Solutions**, we bring innovation, efficiency, and excellence to your digital landscape. Our team of experts is dedicated to delivering top-tier solutions across a diverse range of technologies and services.
+# AlAziz Software Solutions
 
-## 🌟 What We Offer
+**AI agents, workflow automation and SaaS products, built senior-led, at a fixed price agreed before any build starts.**
 
-### 📱 Mobile App Development
-Crafting mobile apps with precision and efficiency using **Ionic, React Native,** and **NativeScript**. Delivering seamless experiences for diverse platforms.
+[Website](https://alazizsoftware.com) · [ReplyDesk demo](https://helpdesk.alazizsoftware.com) · [LinkedIn](https://www.linkedin.com/company/alazizsoftware) · [X](https://x.com/alazizsoftwares) · [Email](mailto:hello@alazizsoftware.com)
 
-### 🌐 Web Development
-Innovating dynamic web solutions with **Angular, ReactJS,** and **SvelteKit**. Optimal performance and user engagement are our top priorities.
-
-### 🏢 Company Software Solutions
-Tailored solutions in **POS, HRMS, Attendance,** and **Security systems** for efficient operations and enhanced security in your business.
-
-### 🔍 SEO
-Experts in **On-page, Off-page, Technical SEO,** and **Backlink strategies**. We optimize websites for search engine visibility and drive organic traffic. Your digital success is our priority.
-
-### 📈 Digital Marketing
-Our digital marketing mavens craft strategies for growth. Specializing in **SEO, PPC, social media,** and **content marketing**, we elevate your online presence.
-
-### 🌐 WordPress Development
-Website experts specializing in **WordPress**. From customization and design to optimization, we create your digital masterpiece together.
-
-### 🎨 UI/UX Design
-Our UI/UX specialists proficient in **Figma** and **Adobe XD** excel in wireframing and prototyping. We are committed to crafting seamless digital experiences with a user-centric approach.
-
-### 💼 Payroll Solutions
-Our payroll experts ensure accurate processing, tax compliance, and compensation management. Simplifying payroll solutions for businesses of all sizes.
+</div>
 
 ---
 
-Explore our projects and see how **Al Aziz Software Solutions** can transform your business with our professional and innovative solutions.
+## What we build
 
-Connect with us on [Email](alazizsoftwaresolutions@gmail.com) | Visit our [Website](https://www.alazizsoftwares.com/)
+| | |
+|---|---|
+| 🤖 **AI agents** | Support, sales and ops agents that plug into your tools and take repetitive work off your team. |
+| ⚙️ **Workflow automation** | Connect your apps, remove manual steps, and get reports that run themselves. |
+| 🚀 **SaaS & MVPs** | From idea to a launched product: auth, billing, dashboards, admin panels. |
+| 📱 **Web & mobile apps** | Next.js web apps and React Native / Expo mobile apps from one codebase. |
+
+## Featured product
+
+### [ReplyDesk](https://helpdesk.alazizsoftware.com): an AI helpdesk you host yourself
+A shared inbox, an embeddable live-chat widget, AI-drafted replies, triggers and team roles. You own the code and the data.
+**[Try the live demo →](https://helpdesk.alazizsoftware.com)**
+
+## Our stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+
+## How we work
+
+1. **Discovery call.** We learn your goal and scope it together.
+2. **Fixed quote.** You get one clear price and timeline before we start.
+3. **Build in the open.** Weekly demos, and you see progress in your own repo.
+4. **Launch & hand-over.** You own 100% of the code, with docs and support.
 
 ---
+
+<div align="center">
+
+**Have a project in mind?** [Book a discovery call](mailto:hello@alazizsoftware.com?subject=Discovery%20call) · [alazizsoftware.com](https://alazizsoftware.com)
+
+</div>
